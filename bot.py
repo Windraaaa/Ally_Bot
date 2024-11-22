@@ -123,5 +123,5 @@ async def on_message(message):
         await message.channel.send(help_message)
 
 # Jalankan bot (masukkan token dari Discord Developer Portal)
-TOKEN = "MTMwOTM0NDA5NjA5OTM2OTAxMg.GKH83I.52-1fmLxhSzuCjQG8ogAijHT59GLNkX-hXNCaY"
+TOKEN = "DISCORD_TOKEN_KEY"
 bot.run(TOKEN)
